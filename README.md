@@ -1,1 +1,1 @@
-# first-code
+# first-code: NUMBER'S DIGIT'S SUM CALCULATOR
